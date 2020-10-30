@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Layout Types - Homework</string>
+    <string-array name="images">
+        <item>@drawable/istanbul</item>
+        <item>@drawable/agri</item>
+        <item>@drawable/izmir</item>
+        <item>@drawable/diyarbakir</item>
+        <item>@drawable/sirnak</item>
+        <item>@drawable/hakkari</item>
+        <item>@drawable/bursa</item>
+        <item>@drawable/antep</item>
+        <item>@drawable/mardin</item>
+        <item>@drawable/urfa</item>
+    </string-array>
+
+</resources>
